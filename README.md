@@ -2,6 +2,8 @@
 
 A clean, modern configuration for [Kitty Terminal](https://sw.kovidgoyal.net/kitty/) with transparency, blur effects, and a dark theme.
 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2f9757c6-ecd2-4ede-9296-44fb307e83fa" />
+
 ## ✨ What's included
 
 🎨 **Modern aesthetics**
