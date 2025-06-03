@@ -87,6 +87,10 @@ background_blur 15  # pixels (0 to disable)
 - Accent: `#79b8ff`
 - Selection: `#79b8ff`
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 _Clean terminal setup for modern development_ ⚡
